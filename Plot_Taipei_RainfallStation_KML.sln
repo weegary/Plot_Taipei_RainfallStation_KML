@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plot_Taipei_RainfallStation_KML", "Plot_Taipei_RainfallStation_KML.csproj", "{B455D786-D606-48C1-832F-1EBC43A7F650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B455D786-D606-48C1-832F-1EBC43A7F650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B455D786-D606-48C1-832F-1EBC43A7F650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B455D786-D606-48C1-832F-1EBC43A7F650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B455D786-D606-48C1-832F-1EBC43A7F650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9D75B1-38D3-48B8-BF46-0AD4BCE867CA}
+	EndGlobalSection
+EndGlobal
